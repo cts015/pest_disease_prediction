@@ -1,7 +1,8 @@
 # pest_disease_prediction
 A machine learning model to predict agricultural pests and diseases
 
-This app performs exploratory data analysis (EDA) of sample data.
+First read data from xls or csv file.
+Then, perform exploratory data analysis (EDA) of sample data.
 EDA includes removing duplicates, filling missing values with the mean for the column, and normalization/standardization if necessary.
 The app will then categorize the data into targets and features.
 Cross-validation should be performed. This entails:
