@@ -10,3 +10,4 @@ Cross-validation should be performed. This entails:
   Train multiple machine learning models on the training data and validate performance of each model with the testing data.
 Assess the performance of each model by analyzing R2, mean average error (MAE), and mean squared error (MSE).
 Once the best model is selected based on R2, MAE, MSE perform a test-train split and train then test the model.
+Code for Gradio GUI and copy files to huggingface.
