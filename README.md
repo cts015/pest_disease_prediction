@@ -1,5 +1,5 @@
 # pest_disease_prediction
-A machine learning model to predict agricultural pest and disease
+A machine learning model to predict agricultural pests and diseases
 
 This app performs exploratory data analysis (EDA) of sample data.
 EDA includes removing duplicates, filling missing values with the mean for the column, and normalization/standardization if necessary.
