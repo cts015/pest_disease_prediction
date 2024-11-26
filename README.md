@@ -19,3 +19,9 @@ https://pestdiseaseprediction-oembzg9k4hcbzxzyopvyy8.streamlit.app/
 
 Google colab to find best model:
 https://colab.research.google.com/drive/1jhCJz-efppGe3UBYape4shSyKU-kwLbi?usp=sharing
+
+Ethics datacard:
+https://huggingface.co/spaces/cts015/pest_prediction_ethics_datacard
+
+Ethics checklist:
+https://huggingface.co/spaces/cts015/pest_prediction_ethics_checklist
