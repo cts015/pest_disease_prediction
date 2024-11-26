@@ -11,3 +11,9 @@ EDA includes removing duplicates, filling missing values with the mean for the c
 The app will then categorize the data into targets and features.
 Multiple regression models are trained and tested and RMSE is calculated to assess performance.
 Once the best model is selected based on the lowest RMSE, push the best_model.pkl to GitHub repo for Streamlit app.
+
+Streamlit app:
+https://pestdiseaseprediction-oembzg9k4hcbzxzyopvyy8.streamlit.app/
+
+Google colab to find best model:
+https://colab.research.google.com/drive/1jhCJz-efppGe3UBYape4shSyKU-kwLbi?usp=sharing
