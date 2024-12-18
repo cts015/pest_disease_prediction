@@ -1,7 +1,7 @@
 # pest_disease_prediction
-Author: Cole Stevenosky
-Department: Chemical Engineering
-Institution: Bucknell University
+Author: Cole Stevenosky  
+Department: Chemical Engineering  
+Institution: Bucknell University  
 
 A machine learning app to predict the number of codling moths (Cydia pomonella), which are a major pest of apple and pear trees, based on vegetative and meteorlogical data.
 
@@ -9,7 +9,7 @@ This model was trained on vegetation and weather data for the Bucknell Universit
 
 Explanation of terms: the previous month's data (lag1) is considered, as well as the current month's data (lag0). NDVI (normalized difference vegetation index) is a number that measures the density and health of vegetation in the area
 
-Inputs (features): Monthly mean of data for the current and previous month for the following metrics: NDVI, minimum temperature, maximum temperature, precipitation
+Inputs (features): Monthly mean of data for the current and previous month for the following metrics: NDVI, minimum temperature, maximum temperature, precipitation  
 Outputs (targets): Monthly mean number of codling moths trapped per week
 
 Process to clean up data and choose best ML model:
